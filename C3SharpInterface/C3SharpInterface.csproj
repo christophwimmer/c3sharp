@@ -100,6 +100,8 @@
     <Compile Include="Responses\ProxyInformationResponse.cs" />
     <Compile Include="Responses\VariableMultipleResponse.cs" />
     <Compile Include="Responses\VariableValueResponse.cs" />
+    <Compile Include="Responses\VolumeListResponse.cs" />
+    <Compile Include="Responses\VolumePropertiesResponse.cs" />
     <Compile Include="SyncClient.cs" />
     <Compile Include="SyncFileStream.cs" />
   </ItemGroup>
